@@ -17,3 +17,5 @@ eureka.instance.preferIpAddress=true
 
 logging.level.com.netflix.eureka=DEBUG
 logging.level.com.netflix.discovery=DEBUG
+
+spring.boot.message=Hi,DepartmentServices
